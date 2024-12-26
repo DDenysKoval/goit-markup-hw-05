@@ -483,6 +483,7 @@ address {
 .subscribe-button {
     border-radius: 4px;
     display: flex;
+    justify-content: center;
     padding: 8px 24px;
     width: 165px;
     height: 40px;
