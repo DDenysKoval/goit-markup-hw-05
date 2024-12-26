@@ -478,7 +478,6 @@ address {
 }
 .subscribe-div {
     margin-left: 80px;
-    background-color: ;
 }
 .subscribe-button {
     border-radius: 4px;
@@ -515,9 +514,6 @@ address {
     padding-left: 16px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     color: #ffffff;
-    background-color: transparent;
-}
-.input-lable {
     background-color: transparent;
 }
 .footer-input-style::placeholder {
@@ -701,7 +697,6 @@ address {
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-    display: inline-flex;
     align-items: center;
 }
 .span-icon-check {
@@ -720,6 +715,7 @@ address {
     order: -1;
     margin-right: 8px;
 }
+
 input[type="checkbox"]:checked + .check-accept-div > .span-icon-check {
     background-color: #404bbf;
     border: none;
