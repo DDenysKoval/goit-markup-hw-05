@@ -521,9 +521,6 @@ address {
     font-weight: 400;
     color: #ffffff;
 }
-.footer-input-style:placeholder-shown {
-    background-color: #2e2f42;
-}
 .footer-form {
     display: flex;
     gap: 24px;
