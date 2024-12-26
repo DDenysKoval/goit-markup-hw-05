@@ -517,6 +517,9 @@ address {
     color: #ffffff;
     background-color: transparent;
 }
+.input-lable {
+    background-color: transparent;
+}
 .footer-input-style::placeholder {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -648,7 +651,7 @@ address {
     position: relative;
 }
 .textarea-div {
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 .form-label {
     display: block;
